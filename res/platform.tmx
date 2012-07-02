@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Silveira Neto" tilewidth="32" tileheight="32">
+  <image source="free_tileset_version_10.png" width="480" height="1216"/>
+  <tile id="2">
+   <properties>
+    <property name="solid" value=""/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="solid" value=""/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="solid" value=""/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="solid" value=""/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="solid" value=""/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="solid" value=""/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="solid" value=""/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="solid" value=""/>
+   </properties>
+  </tile>
+  <tile id="36">
+   <properties>
+    <property name="solid" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background" width="30" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztwzEJAAAMA7AyAfUvtzZ2JJBeUlVV9fUBHDku4Q==
+  </data>
+ </layer>
+ <layer name="hud" width="30" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAAAqDo/+h+hIIJAAAP6vUB7pgA8Q==
+  </data>
+ </layer>
+ <layer name="blocks" width="30" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzjYWBg4BkAPAroAwSBWJhKWITObh8FhAG++BWighm48CigP6BmXiY1jYwC2gBi4pRQuTuafwcv4B4gPAqGNwAAeuMJCQ==
+  </data>
+ </layer>
+ <layer name="bushes" width="30" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgY8GmA8ECBx1TGT+jrfDj4TKQ6asebPCPVvEATgBw3b9AwSEwI6n5+Juz6HzGQlw4IAULx9ZEIM7ABSuPrIxFmDKb8CwPkxhOleZrceCIG4Esj5MYTMZjYsoQegNI44mfEnvcJYWIBrrCiVf4llI+HWv6lVZ6ltHweBaOAHAAAIhvkfg==
+  </data>
+ </layer>
+</map>
