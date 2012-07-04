@@ -9,12 +9,7 @@ Topics for the competition, as chosen by Sebasti‡n Rodr’guez, were "ninjas" and 
 How to run
 ----------
 
-The way that works for all versions is to install the [Lšve framework](https://love2d.org/) and then use it to run the `.love` file inside the `dist` folder. That's the only way to play the game in Linux, for example.
-
-Otherwise:
-
-* If you have OSX, you have it quite easy: you can just run the app inside ``dist/mac.zip`.
-* If you have Windows, you can find the game bundled with the Lšve framework already ready for download. Get either the `dist/win32.zip` (default) or `dist/win64.zip` (if you can run it), unzip them, and drag the `NewtonsRevenge.lšve` file you'll find already inside the folder into the `love.exe` file.
+Install the [Lšve framework](https://love2d.org/) and then use it to run the `.love` file inside the `dist` folder. For a while, you may find ready-to-play distributables for OSX and Windows at [my homepage](http://diz.es/newtons/).
 
 How to play
 -----------
